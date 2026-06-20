@@ -1,2 +1,2 @@
-# pytest-cicd
-axentx product · Automated testing solution for Python applications with integrated CI/CD and test automation capabilities
+# CICD
+A simple CICD pipeline using GitHub Actions and Pytest.
